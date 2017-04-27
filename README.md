@@ -38,6 +38,7 @@ Click OK to dismiss the resulting dialog.
 ## YOUR ARE DONE
 
 Replace the Client Id at : https://github.com/symmetriccurve/GoogleGmailAPI/blob/master/index.html#L59 
+Replace the Email to Read fromat : https://github.com/symmetriccurve/GoogleGmailAPI/blob/master/index.html#L107
 
 
 Click on Authorize, Select(if loggedIn) the Gmail Account to read from .  Play around the methods on the gapi for more Understanding.
