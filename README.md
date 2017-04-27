@@ -12,7 +12,7 @@ Initally we thought of Opening the User Email(Fake user) by automating the user 
 Then I thought of, if we can get the password from an API reading through the user Inbox. TADA ! New repo !!!
 
 ### Steps
-It tooks less than 30 mints to get into Gmail Inbox and through the Emails. All thanks to Awesome Team at Google writting docs: 
+It tooks less than 30 mints to get into Gmail Inbox and read through the Emails. All thanks to Awesome Team at Google writting docs: 
 
 https://developers.google.com/gmail/api/quickstart/js
 
