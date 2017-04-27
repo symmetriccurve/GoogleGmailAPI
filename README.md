@@ -1,7 +1,7 @@
 # GoogleGmailAPI
 A Basic Implementation of the GmailAPI Authorized to Read(Modify) Emails from gmail Inbox. 
 
-What was the purpose.
+What was the purpose. ??
 
 We had to test a functionality of a web app that can able to create a user from the UI which sends a password to user's Email Id. We need to login using the password sent to user, to complete the test Scenario. 
 
